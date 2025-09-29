@@ -1,0 +1,2 @@
+# katicon
+Abbreviation as icon
