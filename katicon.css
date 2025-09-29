@@ -1,0 +1,41 @@
+.kat-icon-sm {
+    display: none !important;
+}
+
+.kat-icon-md {
+    display: none !important;
+}
+
+.kat-icon-lg {
+    display: block !important;
+}
+
+/* Extra small (mobile) */
+@media (max-width: 575.98px) { 
+    .kat-icon-sm {
+        display: block !important;
+    }
+
+    .kat-icon-md {
+        display: none !important;
+    }
+
+    .kat-icon-lg {
+        display: none !important;
+    }
+}
+
+/* Small (tablet portrait) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .kat-icon-sm {
+        display: none !important;
+    }
+
+    .kat-icon-md {
+        display: block !important;
+    }
+
+    .kat-icon-lg {
+        display: none !important;
+    }
+}
