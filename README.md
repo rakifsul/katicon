@@ -35,6 +35,6 @@ Abbreviation as icon.
 
 Resize your browser window to see changes.
 
-## Link untuk Memberi Saya Uang
+## More from RAKIFSUL
 
-Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul).
+- [www.rakifsul.my.id](https://www.rakifsul.my.id).
