@@ -37,4 +37,4 @@ Resize your browser window to see changes.
 
 ## Link untuk Memberi Saya Uang
 
-Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info).
+Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul).
