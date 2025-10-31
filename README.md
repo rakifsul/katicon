@@ -35,6 +35,6 @@ Abbreviation as icon.
 
 Resize your browser window to see changes.
 
-## More from RAKIFSUL
+## Get More Precious Links
 
 - [www.rakifsul.my.id](https://www.rakifsul.my.id).
